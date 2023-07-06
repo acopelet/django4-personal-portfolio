@@ -1,0 +1,11 @@
+
+#blogtitle {
+    font-size:  6rem;
+
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem
+    }
+}
